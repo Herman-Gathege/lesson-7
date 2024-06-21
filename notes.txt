@@ -1,0 +1,19 @@
+attribute- explains/ gives more description of an element.
+<divs> creates sections on your page for ease of styling.
+selectors- class="name" also id="name" (.name {} / #name {})
+inline-code css styling - goes directly to your html code
+internal/embeded css styling- goes to the body part of your html code
+external css styling- using a sytlesheet
+bootstrap - css framework (it's like a design system now for coding)
+universal selector - denoted by a * it selects all elements in a page.
+displaying elements- display flex/ inline-block
+css positioning- static, sticky, absolute, 
+a) static- normal flow of a web page/ default positioning of elements.
+b) relative- normal flow of the document, 
+c) fixed- disrupts the normal flow of the document
+d) z-index- allows you to position elements over one another
+e) sticky-  
+
+Ask about anqour tags (for selecting different pages)
+ask about positioning of elements
+nmp install ask
